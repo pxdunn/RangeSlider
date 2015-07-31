@@ -126,7 +126,7 @@ function bzmFoundationSlider ($log, $document, $timeout) {
                 element.removeClass ("disable");
                 scope.handles[0].css ('visibility','visible');
                 if (scope.dual) scope.handles[1].css ('visibility','visible');
-                console.log ("enabling slider")
+                //console.log ("enabling slider")
             }
 
         };
@@ -579,5 +579,4 @@ return {
 };
 }
 
-console.log ("range-slider module loaded");
-
+//console.log ("range-slider module loaded");
