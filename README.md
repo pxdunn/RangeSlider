@@ -15,7 +15,7 @@ Installation
 -------------
 
 ```
-$ bower install RangeSlider --save
+$ bower install angular-foundation-range-slider --save
 ```
 
 
