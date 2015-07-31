@@ -1,0 +1,25 @@
+{
+  "name": "RangeSlider",
+  "version": "0.0.1",
+  "homepage": "https://github.com/pxdunn/RangeSlider",
+  "authors": [
+    "https://github.com/fulup-bzh",
+    "Christopher Dunn <hello@cdunn.io>"
+  ],
+  "description": "Angular Foundation for Range Slider",
+  "main": "src/js/BzmRangeSliderMod.js",
+  "keywords": [
+    "angularjs",
+    "foundation",
+    "range",
+    "slider"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

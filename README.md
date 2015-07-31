@@ -14,15 +14,11 @@ This RangeSlider is Angular ported version for http://foundation.zurb.com/docs/c
 Installation
 -------------
 
-1. download & unzip source from GitHub repository:
+```
+$ bower install RangeSlider --save
+```
 
-2. copy the files
-    - **dist/bzm-range-slider-min.js**
-    - **dist/bzm-range-slider.css**
 
-3. &lt;link&gt; and &lt;script&gt; them into your page 
-
-	
 Usage  <range-slider>
 ---------------------
 ```
