@@ -1,5 +1,5 @@
 {
-  "name": "RangeSlider",
+  "name": "angular-foundation-range-slider",
   "version": "0.0.1",
   "homepage": "https://github.com/pxdunn/RangeSlider",
   "authors": [
@@ -11,8 +11,7 @@
   "keywords": [
     "angularjs",
     "foundation",
-    "range",
-    "slider"
+    "range slider"
   ],
   "license": "MIT",
   "ignore": [
